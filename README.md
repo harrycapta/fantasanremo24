@@ -1,7 +1,7 @@
 
-# FantaSanremo 2023
+# FantaSanremo 2024
 
-A little experiment for predicting the best team of 5 performers for the 2023 edition of the Italian Festival of Sanremo, with python.
+A little experiment for predicting the best team of 5 performers for the 2024 edition of the Italian Festival of Sanremo, with python.
 
 The game is explained in detail at [fantasanremo.com](https://fantasanremo.com/), but the main rules are like any other fantasy game: you have X credits (100 in this case) for building your team, composed by N singers (5 in this case).
 
